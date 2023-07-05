@@ -1,1 +1,1 @@
-type of the file
+symbolic link
