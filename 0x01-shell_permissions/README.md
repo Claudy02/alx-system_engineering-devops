@@ -1,1 +1,1 @@
-script that adds execution permission to everybody
+script that sets permission to 007
