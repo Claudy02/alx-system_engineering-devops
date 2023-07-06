@@ -1,1 +1,1 @@
-script that switches users
+printing effective user name of the user
