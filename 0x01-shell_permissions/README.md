@@ -1,1 +1,1 @@
-scripts that adds multiple permissions
+script that adds execution permission to everybody
