@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t . | head
+find -midepth 1 -type d | wc -1
